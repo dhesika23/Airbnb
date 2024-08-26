@@ -1,5 +1,7 @@
 **Airbnb NYC 2019 Data Analysis**
+
 **Project Overview**
+
 This project focuses on the exploratory data analysis (EDA) of Airbnb's dataset, containing approximately 49,000 observations with 16 columns, including both categorical and numeric values. The goal is to uncover key insights that can inform Airbnb's business decisions, optimize strategies, and enhance user experiences.
 
 **Objectives**
@@ -16,6 +18,7 @@ The primary objectives of this analysis are to:
 **Guide Marketing Initiatives:** Tailor marketing strategies based on customer behavior and preferences, leading to more effective advertising campaigns and promotions.
 
 **Methodology**
+
 Data Collection and Cleaning
 
 Dataset: The Airbnb dataset includes around 49,000 listings, with data spanning across 16 columns.
